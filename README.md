@@ -125,5 +125,5 @@ Korea, under the ITRC (Information Technology Research Center) support
 program (IITP-2023-RS-2022-00156295) supervised by the IITP (Institute
 for Information Communications Technology Planning Evaluation).
 
-Author Myung Beom Her is really grateful to his supervisor, ji-Hyeong Han, for guiding him in the right direction.  
+Author Myung Beom Her is really grateful to his supervisor, ji-Hyeong Han, for guiding him to the right direction.  
 And He is really grateful to Jisu Jeong for discussing with him.
