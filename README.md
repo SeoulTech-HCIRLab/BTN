@@ -49,9 +49,7 @@ the proposed BTN for FER.
 	<!-- START TABLE -->
 	<!-- TABLE HEADER -->
 	<th valign="bottom">pre-trained checkpoint</th>
-	<th valign="bottom">baidu disk</th>
-	<th valign="bottom">codes</th>
-	<th valign="bottom">google drive</th>
+	<th valign="bottom">ownCloud</th>
 	<!-- TABLE BODY -->
 	<tr><td align="left">ir50</td>
 	<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/pAxMzP5X6f4Esp0">download</a></td>
@@ -68,7 +66,7 @@ The following table provides POSTER V2 checkpoints in each dataset.
 <!-- TABLE HEADER -->
 <th valign="bottom">dataset</th>
 <th valign="bottom">top-1 acc</th>
-<th valign="bottom">baidu disk</th>
+<th valign="bottom">ownCloud</th>
 
 <!-- TABLE BODY -->
 <tr><td align="left">RAF-DB</td>
