@@ -41,6 +41,48 @@ the proposed BTN for FER.
 		     ...
 	```
 
+- Preparing Pretrained Models
+  
+	The following table provides the pre-trained checkpoints used in this paper. Put entire `pretrain` folder under `models` folder.
+
+	<table><tbody>
+	<!-- START TABLE -->
+	<!-- TABLE HEADER -->
+	<th valign="bottom">pre-trained checkpoint</th>
+	<th valign="bottom">baidu disk</th>
+	<th valign="bottom">codes</th>
+	<th valign="bottom">google drive</th>
+	<!-- TABLE BODY -->
+	<tr><td align="left">ir50</td>
+	<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/pAxMzP5X6f4Esp0">download</a></td>
+	</tr>
+	<tr><td align="left">mobilefacenet</td>
+	<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/fyJskvBJPBGS9aZ">download</a></td>
+	</tbody></table>
+
+### Checkpoints
+The following table provides POSTER V2 checkpoints in each dataset.
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">dataset</th>
+<th valign="bottom">top-1 acc</th>
+<th valign="bottom">baidu disk</th>
+
+<!-- TABLE BODY -->
+<tr><td align="left">RAF-DB</td>
+<th valign="bottom">92.54</th>
+<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/wYXSkGzB20YFWLB">download</a></td>
+<tr><td align="left">AffectNet (7 cls)</td>
+<th valign="bottom">67.60</th>
+<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/OfmdcblMqgmoW62">download</a></td>
+<tr><td align="left">AffectNet (8 cls)</td>
+<th valign="bottom">63.77</th>
+<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/5fxIhmlrnN6jhNB">download</a></td>
+</tbody></table>
+
+
 ### Test
 
 You can evaluate our model on RAF-DB dataset by running:
