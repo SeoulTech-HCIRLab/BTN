@@ -103,19 +103,19 @@ python main_8.py --data path/to/dataset --evaluate checkpoint/AffectNet8_64.29.p
 ### Train
 You can train BTN on RAF-DB dataset by running as follows:
 ```
-python main.py --data "absolute path of raf-db dataset" --data_type RAF-DB --lr 2e-5 --batch-size 64 --epochs 300 --gpu 0
+python main.py --data path/to/dataset --data_type RAF-DB --lr 2e-5 --batch-size 64 --epochs 300 --gpu 0
 ```
 You can train BTN on AffectNet (7 cls) dataset by running as follows:
 ```
-python main.py --data "absolute path of affectnet7 dataset" --data_type AffectNet-7 --lr 0.8e-6 --batch-size 144 --epochs 100 --gpu 0
+python main.py --data path/to/dataset --data_type AffectNet-7 --lr 0.8e-6 --batch-size 144 --epochs 100 --gpu 0
 ```
 You can train BTN on AffectNet (8 cls) dataset by running as follows:
 ```
-python main_8cls.py --data "absolute path of affectnet8 dataset" --lr 1e-6 --batch-size 144 --epochs 100 --gpu 0
+python main_8cls.py --data path/to/dataset --lr 1e-6 --batch-size 144 --epochs 100 --gpu 0
 ```
 You can continue your training by running:
 ```
-python main.py --data "absolute path of raf-db dataset" --resume checkpoint/RAFDB92.54.pth
+python main.py --data path/to/dataset --resume checkpoint/RAFDB92.54.pth
 ```
 
 ## Acknowledgments
