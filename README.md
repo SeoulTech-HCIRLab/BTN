@@ -126,5 +126,5 @@ program (IITP-2023-RS-2022-00156295) supervised by the IITP (Institute
 for Information Communications Technology Planning Evaluation).
 
 Author Myung Beom Her is really grateful to his supervisor, ji-Hyeong Han, for guiding him to the right direction and he is really grateful to Jisu Jeong for discussing with him.
-Already made batch attention in june 2023, but when `shuffle=True in validation set`, accuracy is different from `shuffle=False in validation set` and
+We already made batch attention in june 2023, but when `shuffle=True in validation set`, accuracy is different from `shuffle=False in validation set` and
 then performance is degrade. Thus, We created a current model whose results do not change even if the data changes within the batch.
