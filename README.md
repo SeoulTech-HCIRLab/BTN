@@ -43,8 +43,7 @@ the proposed BTN for FER.
 
 - Preparing Pretrained Models
   
-	The following table provides the pre-trained checkpoints used in this paper. Put entire `pretrain` folder under `models` folder.
-
+	The following table provides the pre-trained checkpoints used in this paper. Put entire `pretrain` folder under `models` folder and modify the code of "loading the checkpoint path" in models/BTN_7cls and BTN_8cls. ex)face_landback_checkpoint = torch.load, and ir_checkpoint = torch.load.
 	<table><tbody>
 	<!-- START TABLE -->
 	<!-- TABLE HEADER -->
@@ -59,7 +58,7 @@ the proposed BTN for FER.
 	</tbody></table>
 
 ### Checkpoints
-The following table provides POSTER V2 checkpoints in each dataset.
+The following table provides BTN checkpoints in each dataset.
 
 <table><tbody>
 <!-- START TABLE -->
