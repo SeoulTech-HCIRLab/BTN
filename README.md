@@ -43,7 +43,9 @@ the proposed BTN for FER.
 
 - Preparing Pretrained Models
   
-	The following table provides the pre-trained checkpoints used in this paper. Put entire `pretrain` folder under `models` folder and modify the `checkpoint path` in `BTN_7cls.py` and `BTN_8cls.py` under `models`. ex)`face_landback_checkpoint = torch.load(r'path/to/mobilefacenet checkpoint')`, and `ir_checkpoint = torch.load(r'path/to/ir50 checkpoint')`.
+	The following table provides the pre-trained checkpoints used in this paper. Put entire `pretrain` folder under `models` folder and modify the `checkpoint path` in `BTN_7cls.py` and `BTN_8cls.py` under `models`.
+
+ex)`face_landback_checkpoint = torch.load(r'path/to/mobilefacenet checkpoint')`, and `ir_checkpoint = torch.load(r'path/to/ir50 checkpoint')`.
 	<table><tbody>
 	<!-- START TABLE -->
 	<!-- TABLE HEADER -->
