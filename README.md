@@ -24,6 +24,9 @@ Experimental results on various FER datasets show that the
 proposed BTN consistently outperforms the state-of- the-art in
 FER datasets. Representative results demonstrate the promise of
 the proposed BTN for FER.
+
+![fig2](./figures/BT.png)
+
 ### Preparation
 - Preparing Data
   
