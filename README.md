@@ -79,7 +79,7 @@ The following table provides BTN checkpoints in each dataset.
 <th valign="bottom">67.60</th>
 <td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/OfmdcblMqgmoW62">download</a></td>
 <tr><td align="left">AffectNet (8 cls)</td>
-<th valign="bottom">63.77</th>
+<th valign="bottom">64.29</th>
 <td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/5fxIhmlrnN6jhNB">download</a></td>
 </tbody></table>
 
