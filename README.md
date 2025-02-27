@@ -55,10 +55,10 @@ the proposed BTN for FER.
 	<th valign="bottom">ownCloud</th>
 	<!-- TABLE BODY -->
 	<tr><td align="left">ir50</td>
-	<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/qhixhxlOlBDAz7V">download</a></td>
+	<td align="center"><a href="https://drive.google.com/file/d/1KZy3qG3S4mmn1bnABme0JJA0X16AyaYL/view?usp=drive_link">download</a></td>
 	</tr>
 	<tr><td align="left">mobilefacenet</td>
-	<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/fyJskvBJPBGS9aZ">download</a></td>
+	<td align="center"><a href="https://drive.google.com/file/d/167fDe4iBJAsECB4jAW_IoSDHW2tOAV3j/view?usp=drive_link">download</a></td>
 	</tbody></table>
 
 ### Checkpoints
@@ -74,13 +74,13 @@ The following table provides BTN checkpoints in each dataset.
 <!-- TABLE BODY -->
 <tr><td align="left">RAF-DB</td>
 <th valign="bottom">92.54</th>
-<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/wYXSkGzB20YFWLB">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1nrvrjOmkQzEZyniASmXCkvp8iMaJZsjj/view?usp=drive_link">download</a></td>
 <tr><td align="left">AffectNet (7 cls)</td>
 <th valign="bottom">67.60</th>
-<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/OfmdcblMqgmoW62">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1Pbu7JOuGNiElYvOiiGCbn_XSAJ2d6W95/view?usp=drive_link">download</a></td>
 <tr><td align="left">AffectNet (8 cls)</td>
 <th valign="bottom">64.29</th>
-<td align="center"><a href="https://hcirlabserver.seoultech.ac.kr/dataset/s/5fxIhmlrnN6jhNB">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1RGXr20tr_ruDvkC8Fiw2cFaGU8TsWfT6/view?usp=drive_link">download</a></td>
 </tbody></table>
 
 
