@@ -27,6 +27,14 @@ the proposed BTN for FER.
 
 ![fig2](./figures/BT.png)
 
+## 🔨 Installation
+Run the following command to make virtual environments
+```bash
+conda create -n BTN python=3.7.16
+conda activate BTN
+pip install -r requirements.txt
+```
+
 ### Preparation
 - Preparing Data
   
