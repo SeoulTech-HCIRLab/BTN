@@ -49,7 +49,7 @@ parser.add_argument('-p', '--print-freq', default=30, type=int, metavar='N', hel
 parser.add_argument('--resume', default=None, type=str, metavar='PATH', help='path to checkpoint')
 parser.add_argument('-e', '--evaluate', default=None, type=str, help='evaluate model on test set')
 parser.add_argument('--beta', type=float, default=0.6)
-parser.add_argument('--gpu', type=str, default='3') #1
+parser.add_argument('--gpu', type=str, default='0') #1
 args = parser.parse_args()
 
 def load_pretrained_weights(model, checkpoint):
@@ -586,3 +586,4 @@ class RecorderMeter(object):
 
 if __name__ == '__main__':
     main()
+
