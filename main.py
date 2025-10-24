@@ -127,7 +127,10 @@ def main():
     
     # Data loading code
     traindir = os.path.join(args.data, 'train')
-    valdir = os.path.join(args.data, 'valid')
+    if args.data_type == 'RAF-DB':
+        valdir = os.path.join(args.data, 'test')
+    else:
+        valdir = os.path.join(args.data, 'valid')
  
     if args.data_type == 'RAF-DB':
         print("data:", args.data_type)
@@ -587,3 +590,4 @@ class RecorderMeter(object):
 
 if __name__ == '__main__':
     main()
+
