@@ -41,11 +41,11 @@ pip install -r requirements.txt
   As an example, assume we wish to run RAF-DB. We need to make sure it have a structure like following:
    ```
 	- data/raf-db/
-		 train/label(1,2,...,7)/
+		 train/label(ex., 1,2,...,7)/
 		     train_00001_aligned.jpg
 		     train_00002_aligned.jpg
 		     ...
-		 test/label(ex.1,2,..,7)/
+		 test/label(ex., 1,2,..,7)/
 		     test_0001_aligned.jpg
 		     test_0002_aligned.jpg
 		     ...
