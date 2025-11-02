@@ -1,7 +1,7 @@
 # Batch Transformer: Look for Attention in Batch 
 
 ## 📰 News
-**[2025.10.29]** FRU-Adapter is accepted for IEEE ACCESS <br>
+**[2025.10.29]** Batch Transformer is accepted for IEEE ACCESS <br>
 
 ## ✨ Overview
 
