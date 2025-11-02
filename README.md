@@ -1,37 +1,29 @@
 # Batch Transformer: Look for Attention in Batch 
 
-![fig1](./figures/BTN.png)
+## 📰 News
+**[2025.10.29]** FRU-Adapter is accepted for IEEE ACCESS <br>
 
-Facial expression recognition (FER) has received
-considerable attention in computer vision, with “in-the-wild”
-environments such as human-computer interaction. However,
-FER images contain uncertainty such as occlusion, low resolution,
-pose variation, illumination variation, and subjectiveness, which
-includes some expressions that do not match the target label.
-Thus, little information is obtained from a noisy single image and
-is not trusted. It would extremely degrade the performance of the
-FER task. To address this issue, we propose a batch transformer
-(BT) to prevent overfitting in noisy data and extract trustworthy
-information by training information reflected features of several
-images in a batch rather than information from a single image.
-Additionally, we propose a class batch attention (CBA) to obtain
-trustworthy information by reflecting the class prediction of
-images with similar features. We propose multi- level attention
-(MLA) to prevent overfitting the specific features by capturing
-correlations between each level. In this paper, we present a
-batch transformer network (BTN) combined the above proposals.
-Experimental results on various FER datasets show that the
-proposed BTN consistently outperforms the state-of- the-art in
-FER datasets. Representative results demonstrate the promise of
-the proposed BTN for FER.
+## ✨ Overview
+![fig1](./figures/BTN.png)
+Facial expression recognition (FER) has received considerable attention in computer vision, with “in-the-wild” environments such as human-computer interaction. 
+However, FER images contain uncertainties such as occlusion, low resolution, pose variation, illumination variation, and subjectivity, which include some expressions that do not match the target label.
+Consequently, minimal information is obtained from a noisy single image, making it unreliable. 
+This can significantly degrade the performance of the FER task. 
+To address this issue, we propose a batch transformer (BT), comprising the proposed class batch attention (CBA) module to prevent overfitting in noisy data and to extract trustworthy information by training on features reflected from several images in a batch, instead of information from a single image. 
+We also propose multi-level attention (MLA) to prevent the overfitting of specific features by capturing the correlations between each level. 
+In this paper, we present a batch transformer network (BTN) that combines the above proposals. 
 
 ![fig2](./figures/BT.png)
+
+<p align="center">
+  <img src="figures/BT.png" width=75%> <br>
+</p>
 
 ## 🚀 Main Results
 
 ### ✨ Static Facial Expression Recognition
 
-![Result_on_RAF-DB, AffectNet-7, AffectNet-8 dataset](figs/RESULT.png)
+![Result_on_RAF-DB, AffectNet-7, AffectNet-8 dataset](figures/RESULT.png)
 
 ## 🔨 Installation
 Run the following command to make virtual environments
@@ -41,7 +33,8 @@ conda activate BTN
 pip install -r requirements.txt
 ```
 
-### Preparation
+## ➡️ Data Preparation
+
 - Preparing Data
   
   As an example, assume we wish to run RAF-DB. We need to make sure it have a structure like following:
