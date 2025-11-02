@@ -4,7 +4,7 @@
 **[2025.10.29]** FRU-Adapter is accepted for IEEE ACCESS <br>
 
 ## ✨ Overview
-![fig1](./figures/BTN.png)
+
 Facial expression recognition (FER) has received considerable attention in computer vision, with “in-the-wild” environments such as human-computer interaction. 
 However, FER images contain uncertainties such as occlusion, low resolution, pose variation, illumination variation, and subjectivity, which include some expressions that do not match the target label.
 Consequently, minimal information is obtained from a noisy single image, making it unreliable. 
@@ -14,10 +14,6 @@ We also propose multi-level attention (MLA) to prevent the overfitting of specif
 In this paper, we present a batch transformer network (BTN) that combines the above proposals. 
 
 ![fig2](./figures/BT.png)
-
-<p align="center">
-  <img src="figures/BT.png" width=75%> <br>
-</p>
 
 ## 🚀 Main Results
 
