@@ -164,9 +164,12 @@ You can continue your training by running:
 python main.py --data path/to/dataset --resume checkpoint/RAFDB92.54.pth
 ```
 
-## Acknowledgments
+## ☎️ Contact 
 
-This research was supported by the MSIT (Ministry of Science and ICT),
-Korea, under the ITRC (Information Technology Research Center) support
-program (IITP-2023-RS-2022-00156295) supervised by the IITP (Institute
-for Information Communications Technology Planning Evaluation).
+If you have any questions, please feel free to reach me out at `gblader@naver.com`.
+
+## 👍 Acknowledgements
+
+This work was supported by the IITP(Institute of Information Communications Technology Planning Evaluation)-ITRC(Information
+Technology Research Center) grant funded by the Korea government(Ministry of Science and ICT)(IITP-2025-RS-2022-00156295)
+
