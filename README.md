@@ -104,7 +104,7 @@ pip install -r requirements.txt
 	<td align="center"><a href="https://drive.google.com/file/d/167fDe4iBJAsECB4jAW_IoSDHW2tOAV3j/view?usp=drive_link">download</a></td>
 	</tbody></table>
 
-### Checkpoints
+## 📋 Reported Results and Checkpoints
 The following table provides BTN checkpoints in each dataset.
 
 <table><tbody>
@@ -173,3 +173,9 @@ If you have any questions, please feel free to reach me out at `gblader@naver.co
 This work was supported by the IITP(Institute of Information Communications Technology Planning Evaluation)-ITRC(Information
 Technology Research Center) grant funded by the Korea government(Ministry of Science and ICT)(IITP-2025-RS-2022-00156295)
 
+## ✏️ Citation
+
+If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
+```bash
+
+```
