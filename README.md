@@ -16,23 +16,6 @@ In this paper, we present a batch transformer network (BTN) that combines the ab
 ![fig2](./figures/BT.png)
 
 ```
-class ChannelPositionalEncoding(nn.Module):
-    def __init__(self, channel):
-        super().__init__()
-        self.pos_embed = nn.Parameter(torch.zeros(1, 1, channel))
-        #self.channel = channel
-        
-    def forward(self, q, k):
-        B, C, _, _ = q.shape
-        q = q.view(B, C, -1).permute(0, 2, 1)  # BCHW -> BNC
-        q = q + self.pos_embed # B,E,C + B,1,C . Broadcasting So E dimension has same position 
-        q = q.contiguous().transpose(-2,-1) #B,C,E
-
-        k = k.view(B, C, -1).permute(0, 2, 1)  # BCHW -> BNC
-        k = k + self.pos_embed # B,E,C
-        k = k.contiguous().transpose(-2,-1) #B,C,E
-        return q, k
-
 class BatchTransformer(nn.Module):
     def __init__(self,
                  channel,
