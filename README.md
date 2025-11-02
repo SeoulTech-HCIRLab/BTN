@@ -27,6 +27,12 @@ the proposed BTN for FER.
 
 ![fig2](./figures/BT.png)
 
+## 🚀 Main Results
+
+### ✨ Static Facial Expression Recognition
+
+![Result_on_RAF-DB, AffectNet-7, AffectNet-8 dataset](figs/RESULT.png)
+
 ## 🔨 Installation
 Run the following command to make virtual environments
 ```bash
