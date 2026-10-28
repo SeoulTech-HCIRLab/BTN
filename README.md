@@ -99,10 +99,10 @@ pip install -r requirements.txt
 	<th valign="bottom">ownCloud</th>
 	<!-- TABLE BODY -->
 	<tr><td align="left">ir50</td>
-	<td align="center"><a href="https://drive.google.com/file/d/1KZy3qG3S4mmn1bnABme0JJA0X16AyaYL/view?usp=drive_link">download</a></td>
+	<td align="center"><a href="https://www.dropbox.com/scl/fi/v2ipudeyyga3gk877k5yq/ir50.pth?rlkey=js4f7iuw54eigfgs4uyolyhdf&st=1wdj30pj&dl=0">download</a></td>
 	</tr>
 	<tr><td align="left">mobilefacenet</td>
-	<td align="center"><a href="https://drive.google.com/file/d/167fDe4iBJAsECB4jAW_IoSDHW2tOAV3j/view?usp=drive_link">download</a></td>
+	<td align="center"><a href="https://www.dropbox.com/scl/fi/izv58cnwbtcu4t06duvzx/mobilefacenet_model_best.pth.tar?rlkey=3823322x1ztykvcce1ymryu21&st=h6m5x84v&dl=0">download</a></td>
 	</tbody></table>
 
 ## 📋 Reported Results and Checkpoints
