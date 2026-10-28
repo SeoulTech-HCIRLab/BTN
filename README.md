@@ -176,6 +176,8 @@ Technology Research Center) grant funded by the Korea government(Ministry of Sci
 
 ## ✏️ Citation
 
+If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
+```bash
 @article{her2025batch,
   title={Batch transformer: look for attention in batch},
   author={Her, Myungbeom and Jeong, Jisu and Song, Hojoon and Han, Ji-Hyeong},
@@ -185,8 +187,5 @@ Technology Research Center) grant funded by the Korea government(Ministry of Sci
   year={2025},
   publisher={IEEE}
 }
-
-If you think this project is helpful, please feel free to leave a star⭐️ and cite our paper:
-```bash
 
 ```
