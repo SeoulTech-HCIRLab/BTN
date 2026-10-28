@@ -118,13 +118,13 @@ The following table provides BTN checkpoints in each dataset.
 <!-- TABLE BODY -->
 <tr><td align="left">RAF-DB</td>
 <th valign="bottom">92.54</th>
-<td align="center"><a href="https://drive.google.com/file/d/1nrvrjOmkQzEZyniASmXCkvp8iMaJZsjj/view?usp=drive_link">download</a></td>
+<td align="center"><a href="https://www.dropbox.com/scl/fi/yum87abgnku5b1q93k43j/RAFDB92.54.pth?rlkey=hh54eay45onnezhf0v4iqkqsg&st=gscn1v16&dl=0">download</a></td>
 <tr><td align="left">AffectNet (7 cls)</td>
 <th valign="bottom">67.60</th>
-<td align="center"><a href="https://drive.google.com/file/d/1Pbu7JOuGNiElYvOiiGCbn_XSAJ2d6W95/view?usp=drive_link">download</a></td>
+<td align="center"><a href="https://www.dropbox.com/scl/fi/xc8rn3t45v0hnfjyeqdue/AffectNet7_67.60.pth?rlkey=ptg2gj8n71wbxv2qctg0ewosm&st=glzj2051&dl=0">download</a></td>
 <tr><td align="left">AffectNet (8 cls)</td>
 <th valign="bottom">64.29</th>
-<td align="center"><a href="https://drive.google.com/file/d/1RGXr20tr_ruDvkC8Fiw2cFaGU8TsWfT6/view?usp=drive_link">download</a></td>
+<td align="center"><a href="https://www.dropbox.com/scl/fi/ddvquk2iks3fgb3tqllqw/AffectNet8_64.29.pth?rlkey=ut7wl9lrbw6kdy3y216d77wey&st=36dmftfs&dl=0">download</a></td>
 </tbody></table>
 
 
